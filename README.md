@@ -14,57 +14,85 @@ This project focuses on detecting phishing URLs using machine learning technique
 Detects phishing URLs based on text patterns
 
 Uses machine learning for classification
+
 Fast and efficient predictions
+
 Simple and user-friendly design
+
 Easily extendable for future improvements
 
 ## 🎯 Objectives
 Identify patterns in phishing URLs
+
 Convert raw text data into usable features
+
 Build and train a machine learning model
+
 Evaluate model performance
+
 Provide an easy-to-use interface for users
 
 ## 🛠️ Methodology
 Data Collection – Gather dataset of URLs
+
 Feature Extraction – Convert URLs into meaningful features
+
 Model Selection – Choose suitable ML algorithm
+
 Model Training – Train model on dataset
+
 Evaluation – Test accuracy and performance
 
 ## ⚙️ Technologies Used
 Python
+
 Pandas
+
 Scikit-learn
 
 ## 💻 Implementation
 Load dataset into a DataFrame
+
 Convert URL text into numerical features
+
 Train the machine learning model
+
 Create a prediction function
+
 Allow user input for real-time testing
 
 ## 📊 Results
 Successfully identifies common phishing patterns
+
 Works effectively with keyword-based detection
+
 Demonstrates practical use of machine learning
 
 ## ✅ Advantages
 Simple and easy to understand
+
 Fast prediction speed
+
 Lightweight design
+
 Can be expanded with more data
 
 ## 📚 Applications
 Email spam detection systems
+
 Browser security tools
+
 Cybersecurity systems
+
 User awareness and education tools
 
 ## 📌 Future Scope
 Improve accuracy using larger datasets
+
 Use advanced models like deep learning
+
 Integrate with browser extensions
+
 Add real-time threat intelligence
 
 ## 🧾 Summary
